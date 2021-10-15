@@ -11,6 +11,6 @@ public class DockerHelloWorld {
 	@GetMapping
 	public String getName() {
 		
-		return "Welcome to deployment in my tesr";
+		return "Hello MyName is Quan";
 	}
 }
